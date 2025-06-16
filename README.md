@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="padding-right:10px;" />
+
 
 
 </p>

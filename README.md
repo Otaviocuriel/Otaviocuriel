@@ -1,4 +1,4 @@
-# 👨‍💻 Otavio Vichin
+# 👨‍💻 Otavio Curiel
 
 **`Desenvolvedor em Formação | Foco em Backend, Web e Banco de Dados`**
 

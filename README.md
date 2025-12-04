@@ -1,5 +1,3 @@
-
-<img src="https://media.tenor.com/kCHEJ0F91XAAAAAM/spfc-s%C3%A3o-paulo.gif" width="750px" style="padding-right:100px;" />
 # 👨‍💻 Otavio Curiel
 
 **`Desenvolvedor em Formação | Foco em Backend, Web e Banco de Dados`**

@@ -13,9 +13,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="padding-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" style="padding-right:10px;" />
+  <img src="https://cdn.simpleicons.org/laravel/ff2d20" alt="Laravel" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="padding-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" style="padding-right:10px;" />
-   <img src="https://cdn.simpleicons.org/laravel/ff2d20" alt="Laravel" width="40" height="40">
+   
 
 </p>
 

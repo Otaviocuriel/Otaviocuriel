@@ -4,7 +4,7 @@
 
 **`Desenvolvedor | Foco em Backend, Front-end, Web e Banco de Dados`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e eletrônica. Gosto de aprender novas linguagens e ferramentas, com interesse especial em desenvolvimento web e banco de dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia, programação e eletrônica. Gosto de aprender novas linguagens e frameworks, com interesse especial em desenvolvimento web e banco de dados
 
 ---
 

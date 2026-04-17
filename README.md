@@ -11,18 +11,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta de tecnologi
 ## 🧑‍💻 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.simpleicons.org/laravel/ff2d20" alt="Laravel" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" style="padding-right:10px;" />
-   
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/ff2d20" width="40" alt="Laravel" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
 </p>
 
 ---
 
 ## 📫 Contato
+
 📧 Email: otavio.curiel@fatec.sp.gov.br
 
 </div>

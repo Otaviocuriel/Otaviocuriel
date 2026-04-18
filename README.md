@@ -13,6 +13,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta de tecnologi
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typeScript" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/laravel/ff2d20" width="40" alt="Laravel" />

@@ -29,6 +29,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta de tecnologi
 ---
 ## 📫 Contato
 
-📧 Email: otavio.curiel@fatec.sp.gov.br
+📧 Email: otavio.curiel@aluno.cps.sp.gov.br
 
 </div>
